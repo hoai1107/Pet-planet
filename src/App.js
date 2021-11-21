@@ -8,6 +8,7 @@ import Contact from './pages/Contact';
 import Main from './pages/Main';
 
 const App = () => {
+
   return(
     <div>
       <Routes>

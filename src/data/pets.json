@@ -1,0 +1,1185 @@
+{
+  "animals": [
+    {
+      "id": 53626667,
+      "organization_id": "CA2517",
+      "url": "https://www.petfinder.com/dog/tramp-53626667/ca/san-pablo/jellys-place-ca2517/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Lhasa Apso",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": false, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Tramp",
+      "description": "Tramp is an adorable, shaggy, 8 yo terrier, approx 15 lbs. Tramp was rescued from death row at a Central...",
+      "organization_animal_id": "17473624",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:51:05+0000",
+      "published_at": "2021-11-20T08:51:05+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@jellysplace.org",
+        "phone": "(510) 621-3493",
+        "address": {
+          "address1": "2905 San Pablo Dam Rd",
+          "address2": null,
+          "city": "San Pablo",
+          "state": "CA",
+          "postcode": "94803",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626667" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2517" }
+      }
+    },
+    {
+      "id": 53626662,
+      "organization_id": "CA2517",
+      "url": "https://www.petfinder.com/dog/princess-53626662/ca/san-pablo/jellys-place-ca2517/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": "Border Collie",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Princess",
+      "description": null,
+      "organization_animal_id": "17473631",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:51:04+0000",
+      "published_at": "2021-11-20T08:51:04+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@jellysplace.org",
+        "phone": "(510) 621-3493",
+        "address": {
+          "address1": "2905 San Pablo Dam Rd",
+          "address2": null,
+          "city": "San Pablo",
+          "state": "CA",
+          "postcode": "94803",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626662" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2517" }
+      }
+    },
+    {
+      "id": 53626664,
+      "organization_id": "CA2517",
+      "url": "https://www.petfinder.com/dog/wall-e-jelp-stray-je62-53626664/ca/san-pablo/jellys-place-ca2517/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Wall-E JELP-Stray-je62",
+      "description": "Wall-e is a stray that was pulled from the Martinez shelter. Very sweet, people friendly, loves to go for his...",
+      "organization_animal_id": "17473627",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:51:04+0000",
+      "published_at": "2021-11-20T08:51:04+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@jellysplace.org",
+        "phone": "(510) 621-3493",
+        "address": {
+          "address1": "2905 San Pablo Dam Rd",
+          "address2": null,
+          "city": "San Pablo",
+          "state": "CA",
+          "postcode": "94803",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626664" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2517" }
+      }
+    },
+    {
+      "id": 53626665,
+      "organization_id": "CA2517",
+      "url": "https://www.petfinder.com/dog/romeo-53626665/ca/san-pablo/jellys-place-ca2517/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Poodle",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Romeo",
+      "description": "Romeo is an adorable poodle, approx 20 lbs and 4 years old. He was brought to us as a stray,...",
+      "organization_animal_id": "17473626",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:51:04+0000",
+      "published_at": "2021-11-20T08:51:04+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@jellysplace.org",
+        "phone": "(510) 621-3493",
+        "address": {
+          "address1": "2905 San Pablo Dam Rd",
+          "address2": null,
+          "city": "San Pablo",
+          "state": "CA",
+          "postcode": "94803",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626665" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2517" }
+      }
+    },
+    {
+      "id": 53626658,
+      "organization_id": "GA75",
+      "url": "https://www.petfinder.com/dog/dreamer-53626658/ga/hamilton/humane-society-of-harris-county-ga75/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Dreamer",
+      "description": null,
+      "organization_animal_id": "17473477",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:58+0000",
+      "published_at": "2021-11-20T08:50:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "admin@hsharrisco.org",
+        "phone": "(706) 582-3007",
+        "address": {
+          "address1": "3938 Barnes Mill Rd.",
+          "address2": null,
+          "city": "Hamilton",
+          "state": "GA",
+          "postcode": "31811",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626658" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ga75" }
+      }
+    },
+    {
+      "id": 53626656,
+      "organization_id": "VA29",
+      "url": "https://www.petfinder.com/dog/collette-53626656/va/rocky-mount/franklin-co-humane-society-planned-pethood-clinic-and-adoption-center-va29/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Hound",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Collette",
+      "description": null,
+      "organization_animal_id": "17473666",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:49+0000",
+      "published_at": "2021-11-20T08:50:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptions@plannedpethoodrockymount.com",
+        "phone": "(540) 489-3491",
+        "address": {
+          "address1": "18401 Virgil Goode Highway",
+          "address2": null,
+          "city": "Rocky Mount",
+          "state": "VA",
+          "postcode": "24151",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626656" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/va29" }
+      }
+    },
+    {
+      "id": 53626639,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/sox-53626639/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Sox",
+      "description": "Sox is a sweet old man who loves a good car ride and short walks to the mailbox! This friendly...",
+      "organization_animal_id": "17473493",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:19+0000",
+      "published_at": "2021-11-20T08:50:19+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626639" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626645,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/arizona-53626645/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Husky",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Arizona",
+      "description": null,
+      "organization_animal_id": "17473488",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:19+0000",
+      "published_at": "2021-11-20T08:50:19+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626645" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626647,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/stereo-53626647/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Catahoula Leopard Dog",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Stereo",
+      "description": null,
+      "organization_animal_id": "17473532",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:19+0000",
+      "published_at": "2021-11-20T08:50:19+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626647" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626622,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/zeus-53626622/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Zeus",
+      "description": "Zeus wants to zoom into your heart at lightning speed! Zeus\u0026amp;#39; favorite activities include: snuggling on the couch, playing fetch...",
+      "organization_animal_id": "17473484",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:18+0000",
+      "published_at": "2021-11-20T08:50:18+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626622" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626636,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/nueve-53626636/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Siberian Husky",
+        "secondary": "Boxer",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Nueve",
+      "description": null,
+      "organization_animal_id": "17473524",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:18+0000",
+      "published_at": "2021-11-20T08:50:18+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626636" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626610,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/jennifer-53626610/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Senior",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Jennifer",
+      "description": "Jennifer has been frequently described as \u0026amp;#39;a big marshmallow\u0026amp;#39; due to how snuggly \u0026amp;amp; sweet she is! We also use...",
+      "organization_animal_id": "17473482",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:17+0000",
+      "published_at": "2021-11-20T08:50:17+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626610" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626611,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/stormie-53626611/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Stormie",
+      "description": "Stormie is the total dog package! She is sweet-natured and loves to be cuddled and be loved on. She will...",
+      "organization_animal_id": "17473486",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:17+0000",
+      "published_at": "2021-11-20T08:50:17+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626611" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626618,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/ritz-53626618/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Ritz",
+      "description": null,
+      "organization_animal_id": "17473485",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:17+0000",
+      "published_at": "2021-11-20T08:50:17+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626618" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626591,
+      "organization_id": "TX1218",
+      "url": "https://www.petfinder.com/dog/boo-bear-53626591/tx/austin/austin-pets-alive-tx1218/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Boo Bear",
+      "description": null,
+      "organization_animal_id": "17473538",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:50:16+0000",
+      "published_at": "2021-11-20T08:50:16+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@austinpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": "1156 West Cesar Chavez",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78704",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626591" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/tx1218" }
+      }
+    },
+    {
+      "id": 53626582,
+      "organization_id": "CA2490",
+      "url": "https://www.petfinder.com/dog/stevie-53626582/ca/davis/hearts-for-paws-rescue-ca2490/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": "Pit Bull Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Bicolor",
+        "secondary": "Black",
+        "tertiary": "White / Cream"
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": ["Friendly", "Affectionate", "Playful", "Athletic"],
+      "name": "Stevie",
+      "description": "Meet Stevie!\nStevie is a female 4 month Pit / Lab Mix \u2014 Good w/ dogs and kids. Snuggly, happy...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/1/?bust=1637397051\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/1/?bust=1637397051\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/1/?bust=1637397051\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/1/?bust=1637397051"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/2/?bust=1637397052\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/2/?bust=1637397052\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/2/?bust=1637397052\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/2/?bust=1637397052"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/3/?bust=1637397053\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/3/?bust=1637397053\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/3/?bust=1637397053\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/3/?bust=1637397053"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/4/?bust=1637397054\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/4/?bust=1637397054\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/4/?bust=1637397054\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/4/?bust=1637397054"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/1/?bust=1637397051\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/1/?bust=1637397051\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/1/?bust=1637397051\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626582/1/?bust=1637397051"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:31:05+0000",
+      "published_at": "2021-11-20T08:31:05+0000",
+      "distance": null,
+      "contact": {
+        "email": "coordinators@heartsforpawsrescue.com",
+        "phone": "(530) 400-0330",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Davis",
+          "state": "CA",
+          "postcode": "95616",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626582" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2490" }
+      }
+    },
+    {
+      "id": 53626581,
+      "organization_id": "KY63",
+      "url": "https://www.petfinder.com/dog/nancy-53626581/ky/hopkinsville/christian-county-animal-shelter-ky63/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Border Collie",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Nancy",
+      "description": "Dogs are $68.75 and puppies are $66.25 unless otherwise noted. All cats and kittens are $41.25 unless otherwise noted. Our...",
+      "organization_animal_id": "D20212924",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626581/1/?bust=1637397147\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626581/1/?bust=1637397147\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626581/1/?bust=1637397147\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626581/1/?bust=1637397147"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626581/1/?bust=1637397147\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626581/1/?bust=1637397147\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626581/1/?bust=1637397147\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626581/1/?bust=1637397147"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:22:04+0000",
+      "published_at": "2021-11-20T08:22:04+0000",
+      "distance": null,
+      "contact": {
+        "email": "ccas@hesenergy.net",
+        "phone": "(270) 887-4175",
+        "address": {
+          "address1": "2935 Russellville Road (Highway 68 East)",
+          "address2": null,
+          "city": "Hopkinsville",
+          "state": "KY",
+          "postcode": "42240",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626581" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ky63" }
+      }
+    },
+    {
+      "id": 53626580,
+      "organization_id": "NV39",
+      "url": "https://www.petfinder.com/dog/winnie-53626580/nv/las-vegas/nevada-society-for-the-prevention-of-cruelty-to-animals-nevada-spca-nv39/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Lhasa Apso",
+        "secondary": "Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Senior",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": true,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "WINNIE",
+      "description": "LHASA APSO MIX - FEMALE - 9 YEARS OLD - 21 LBS -\nWinnie is a sweet and bubbly girl....",
+      "organization_animal_id": "D2021136",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/1/?bust=1637397121\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/1/?bust=1637397121\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/1/?bust=1637397121\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/1/?bust=1637397121"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/2/?bust=1637397121\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/2/?bust=1637397121\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/2/?bust=1637397121\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/2/?bust=1637397121"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/3/?bust=1637397123\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/3/?bust=1637397123\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/3/?bust=1637397123\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/3/?bust=1637397123"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/1/?bust=1637397121\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/1/?bust=1637397121\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/1/?bust=1637397121\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626580/1/?bust=1637397121"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:21:53+0000",
+      "published_at": "2021-11-20T08:21:53+0000",
+      "distance": null,
+      "contact": {
+        "email": "ebone@nevadaspca.org",
+        "phone": "(702) 873-7722",
+        "address": {
+          "address1": "5375 Procyon Street, Suite 108",
+          "address2": null,
+          "city": "Las Vegas",
+          "state": "NV",
+          "postcode": "89118",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626580" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/nv39" }
+      }
+    },
+    {
+      "id": 53626574,
+      "organization_id": "NV39",
+      "url": "https://www.petfinder.com/dog/dwight-53626574/nv/las-vegas/nevada-society-for-the-prevention-of-cruelty-to-animals-nevada-spca-nv39/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Dachshund",
+        "secondary": "Chihuahua",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "DWIGHT",
+      "description": "I\u0026amp;#39;m getting ready for adoption. Sorry, I\u0026amp;#39;m not available for meet and greets yet.If you would like to contribute to...",
+      "organization_animal_id": "D2021168",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626574/1/?bust=1637397118\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626574/1/?bust=1637397118\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626574/1/?bust=1637397118\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626574/1/?bust=1637397118"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626574/1/?bust=1637397118\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626574/1/?bust=1637397118\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626574/1/?bust=1637397118\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626574/1/?bust=1637397118"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:21:53+0000",
+      "published_at": "2021-11-20T08:21:53+0000",
+      "distance": null,
+      "contact": {
+        "email": "ebone@nevadaspca.org",
+        "phone": "(702) 873-7722",
+        "address": {
+          "address1": "5375 Procyon Street, Suite 108",
+          "address2": null,
+          "city": "Las Vegas",
+          "state": "NV",
+          "postcode": "89118",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626574" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/nv39" }
+      }
+    },
+    {
+      "id": 53626575,
+      "organization_id": "NV39",
+      "url": "https://www.petfinder.com/dog/chewy-53626575/nv/las-vegas/nevada-society-for-the-prevention-of-cruelty-to-animals-nevada-spca-nv39/?referrer_id=39b7175c-8ee8-48c3-b178-243fc463ccd9",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Border Collie",
+        "secondary": "Labrador Retriever",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "CHEWY",
+      "description": "I\u0026amp;#39;m getting ready for adoption. Sorry, I\u0026amp;#39;m not available for meet and greets yet.If you would like to contribute to...",
+      "organization_animal_id": "D2021167",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626575/1/?bust=1637397118\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626575/1/?bust=1637397118\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626575/1/?bust=1637397118\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626575/1/?bust=1637397118"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626575/1/?bust=1637397118\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626575/1/?bust=1637397118\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626575/1/?bust=1637397118\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53626575/1/?bust=1637397118"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-11-20T08:21:53+0000",
+      "published_at": "2021-11-20T08:21:53+0000",
+      "distance": null,
+      "contact": {
+        "email": "ebone@nevadaspca.org",
+        "phone": "(702) 873-7722",
+        "address": {
+          "address1": "5375 Procyon Street, Suite 108",
+          "address2": null,
+          "city": "Las Vegas",
+          "state": "NV",
+          "postcode": "89118",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53626575" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/nv39" }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 100081,
+    "current_page": 1,
+    "total_pages": 5005,
+    "_links": { "next": { "href": "/v2/animals?page=2\u0026type=dog" } }
+  }
+}
