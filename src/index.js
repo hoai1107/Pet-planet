@@ -1,7 +1,7 @@
 import React, { StrictMode } from 'react';
 import ReactDOM from 'react-dom';
 import { ChakraProvider } from '@chakra-ui/react';
-import { AccessTokenProvider } from './data/AccessTokenContext';
+import { AccessTokenProvider } from './context/AccessTokenContext';
 import App from './App';
 import "./styles/style.css";
 import theme from './styles/theme';

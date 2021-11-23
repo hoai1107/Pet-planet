@@ -1,13 +1,17 @@
+import { VStack } from "@chakra-ui/layout";
 import Animal from "../components/Animals";
 import Hero from "../components/Hero";
-import Navbar from "../components/Navbar";
+import MoreCard from "../components/MoreCard";
 
 const Main = () => {
   return(
     <>
-      <Navbar />
       <Hero />
-      <Animal />
+      <VStack spacing={20} mb={36}>
+        <Animal type="cat"/>
+        <Animal type="dog"/>
+        <MoreCard />
+      </VStack>
     </>
   )
 };

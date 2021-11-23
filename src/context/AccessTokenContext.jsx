@@ -27,6 +27,7 @@ function AccessTokenProvider({children}){
       getNewToken();
   }, []);
 
+  // Make a loading page
   if(token === ""){
     return <h1>Loading ...</h1>
   }

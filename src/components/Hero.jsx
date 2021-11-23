@@ -28,10 +28,11 @@ const Hero = () => {
             "font-family":"'Fredoka One', cursive;",
             "color": "#F6A9A9"
             }}
+          textAlign="center"  
         >
           Want a cute pet?
         </Text>
-        <Text fontSize={{base:"1.25rem",md:"1.5rem"}}>
+        <Text fontSize={{base:"1.25rem",md:"1.5rem"}} textAlign="center">
           Here is the place you can find and adopt them! Many beautiful cats and dogs are waiting for new owners. Let pick one for your own 🐶. 
         </Text>
       </VStack>
