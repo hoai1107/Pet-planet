@@ -59,10 +59,14 @@ const Navbar = () => {
           icon={<BiMenu />}
           variant="solid"
           size="lg"
+          borderRadius="full"
           sx={{
-            "border-radius": "15px",
-            "background": "linear-gradient(145deg, #b0d9e0, #d2ffff)",
-            "box-shadow":  "20px 20px 60px #99bcc2, -20px -20px 60px #efffff"
+            "background-color": "#133B5C",
+            "color": "#000000",
+            "&:hover":{
+              "color": "#ffffff",
+              "transition" :"0.2s all ease-in"
+            }
           }}
         />
         <MenuList fontSize="20px" fontWeight="700">
@@ -80,10 +84,10 @@ const Navbar = () => {
 
   const DesktopNav = () => {
     return (
-      <HStack spacing={20} textAlign="center" fontSize="20px" fontWeight="700">
+      <HStack spacing={20} textAlign="center" fontSize="20px" fontWeight="700" color="white">
         {linkList.map((item, index) => {
           return (
-            <Box key={index}>
+            <Box key={index} >
               {item}
             </Box>
             )
@@ -93,12 +97,14 @@ const Navbar = () => {
   };
 
   return (
-    <Flex width="100%" justify="center" bgColor="cyan.100" py={4} borderBottom="1px">
+    <Flex width="100%" justify="center" py={4} sx={{"background-color":"#133B5C"}}>
       <Flex w="5xl" px={4}>
-        <HStack spacing={4}>
-          <Icon as={Logo} width="50" height="50"/>
-          <Text fontSize="2rem" sx={{"font-family": "'Pacifico', cursive;"}}>Pet Planet</Text>
-        </HStack>
+        <Link to="/">
+          <HStack spacing={4}>
+            <Icon as={Logo} width="50" height="50"/>
+            <Text fontSize="2rem" color="white" sx={{"font-family": "'Pacifico', cursive;"}}>Pet Planet</Text>
+          </HStack>
+        </Link>
         
         <Spacer />
 

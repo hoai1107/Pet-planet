@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useAnimal } from '../hooks/useAnimal';
 import Card from './Card';
 import { FaCat, FaDog } from "react-icons/fa";
+import { Spinner } from '@chakra-ui/react';
 
 const _ = require('lodash');
 
@@ -17,7 +18,7 @@ const Animal = (props) => {
 
   if(isLoading){
     return (
-      <Heading>Fetching</Heading>
+      <Spinner size="xl"/>
     )
   };
 

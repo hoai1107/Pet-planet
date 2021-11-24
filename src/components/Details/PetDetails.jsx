@@ -1,4 +1,5 @@
-import { Heading, Box, VStack } from "@chakra-ui/layout";
+import { Heading, Box, VStack, Text } from "@chakra-ui/layout";
+import { Spinner } from "@chakra-ui/react";
 import { Table, TableCaption, Tbody, Tr, Td } from "@chakra-ui/table";
 import { useParams } from "react-router-dom";
 import { useAnimal } from "../../hooks/useAnimal";
@@ -39,7 +40,11 @@ const PetDetails = () => {
   
   
   if(isLoading){
-    return <Heading>Loading ...</Heading>;
+    return (
+      <VStack spacing={10}>
+        <Spinner size="xl"/>
+      </VStack>
+    );
   }
   
   let pet = data.animal;
@@ -48,7 +53,7 @@ const PetDetails = () => {
   let fields = Object.keys(details);
   let photos = photoPicker(pet.photos, "medium");
 
-  if(pet.breeds.mixed){
+  if(pet.breeds.mixed && pet.breeds.secondary){
     details['breeds'] = pet.breeds.primary + " - " + pet.breeds.secondary;
   }else{
     details['breeds'] = pet.breeds.primary;
@@ -57,13 +62,23 @@ const PetDetails = () => {
 
 
   return (
-    <Box p={10}>
+    <Box 
+      p={10} 
+      sx={{"background-color":"#FDFAF6"}}
+      borderRadius="20px"
+      shadow="md"
+      >
       <VStack spacing={20}>
-        <Heading w="full" textAlign="center">
+        <Text w="full" textAlign="center" fontSize="4rem" 
+          sx={{
+            "color": "#03506F",
+            "font-family": "'Fredoka One', cursive"
+            }}
+        >
           {pet.name}
-        </Heading>
+        </Text>
         <ImageCarousel photos={photos}/>
-        <Table variant="striped" colorScheme="yellow">
+        <Table variant="striped" colorScheme="blue">
           <TableCaption>Pet Details</TableCaption>
           <Tbody>
             {fields.map(field => (
