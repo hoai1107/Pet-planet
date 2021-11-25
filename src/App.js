@@ -8,6 +8,7 @@ import Contact from './pages/Contact';
 import Main from './pages/Main';
 import Navbar from "./components/Navbar";
 import Details from './pages/Details';
+import Pets from './pages/Pets';
 
 const App = () => {
 
@@ -21,7 +22,7 @@ const App = () => {
 
         <Route path="/pets/:id" element={<Details />}/>
 
-        <Route path="/pets/" element={() => (<div>Selection page</div>)}/>
+        <Route path="/pets/" element={<Pets />}/>
         
         <Route path="/" element={<Main />}/>
       </Routes>

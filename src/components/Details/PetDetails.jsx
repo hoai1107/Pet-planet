@@ -36,7 +36,7 @@ function photoPicker(photos, size){
 
 const PetDetails = () => {
   const params = useParams();
-  const { data, isLoading } = useAnimal({}, `/${params.id}`);
+  const { data, isLoading } = useAnimal({}, `/animals/${params.id}`);
   
   
   if(isLoading){

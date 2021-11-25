@@ -23,7 +23,7 @@ const Navbar = () => {
     {
       id: 1,
       name: "FIND PETS",
-      path: "/find"
+      path: "/pets"
     },
     {
       id: 2,

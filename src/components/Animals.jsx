@@ -14,7 +14,7 @@ function upper(str){
 
 const Animal = (props) => {
   const [options, setOptions] = useState({type: props.type, page: 5, limit: 4});
-  const { data, isLoading, isError } = useAnimal(options);
+  const { data, isLoading } = useAnimal(options, "/animals");
 
   if(isLoading){
     return (

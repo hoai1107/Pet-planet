@@ -6,16 +6,16 @@ import { useAccessToken } from '../context/AccessTokenContext';
 function useAnimal(p , url = "/"){
   const { token } = useAccessToken();
 
-  const [params, setParam] = useState(p);
+  const [ params, setParams ] = useState(p);
 
   const instance = axios.create({
-    baseURL: 'https://api.petfinder.com/v2/animals',
+    baseURL: 'https://api.petfinder.com/v2',
     headers: {
       'Authorization': `Bearer ${token}`
     },
   });
 
-  const fetcher = (url, params) => instance.get(url , {params: params})
+  const fetcher = (url, params) => instance.get(url, {params: params})
   .then((response) => {
     return response.data;
   })
@@ -31,6 +31,8 @@ function useAnimal(p , url = "/"){
 
   return {
     data,
+    params,
+    setParams,
     isLoading: !error && !data,
     isError: error
   }

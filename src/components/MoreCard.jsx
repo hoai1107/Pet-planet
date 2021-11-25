@@ -1,10 +1,15 @@
 import { Button } from "@chakra-ui/button";
-import { Box, Flex } from "@chakra-ui/layout";
+import { Box } from "@chakra-ui/layout";
+import { useNavigate } from "react-router";
 
 const MoreCard = () => {
+  let navigate = useNavigate();
+
   return (
   <Box>
-    <Button colorScheme="teal" size="lg">
+    <Button colorScheme="teal" size="lg"
+      onClick={() => navigate("/pets")}
+    >
       Click here to find more pets!
     </Button>
   </Box>
