@@ -1,19 +1,25 @@
 import { Button } from "@chakra-ui/button";
 import { Text, SimpleGrid, VStack, Flex } from "@chakra-ui/layout";
 import { useForm, useWatch } from "react-hook-form";
-import { useBreeds } from "../../hooks/useBreeds";
+import { useFetchOptions } from "../../context/FetchOptionsContext";
+import { useAnimal } from "../../hooks/useAnimal";
 import Field from "./Field";
 
-const Selector = (props) => {
-  let { types } = props.data;
+const types = ["Dog","Cat","Rabbit","Small & Furry","Horse","Bird","Scales, Fins & Other","Barnyard"];
 
-  let typesList = types.reduce((prev, cur) => {
-    prev.push(cur.name)
+function getNames(breeds){
+  let res = breeds.reduce((prev, cur) => {
+    prev.push(cur.name);
     return prev;
   },[]);
 
+  return res;
+}
+
+const Selector = () => {
   // Form control
   const { register, control, handleSubmit } = useForm();
+  const { setOptions } = useFetchOptions();
 
   const type = useWatch({
     control,
@@ -21,11 +27,16 @@ const Selector = (props) => {
     defaultValue: "dog"
   });
 
-  const { data: breeds, isLoading: loading_breeds } = useBreeds(type);
+  const breedsPath = `/types/${type}/breeds`;
+  const { data, isLoading: loading_breeds } = useAnimal({}, breedsPath);
 
   function onSubmit(data){
-    props.setParams({...data, limit: 9});
+    setOptions({
+      params:{...data, limit: 9, page: 1},
+      path: "/animals"
+    });
   }
+
   
   return (
     <Flex spacing={10} width="full" direction="column">
@@ -38,28 +49,27 @@ const Selector = (props) => {
           <SimpleGrid columns={{base: 1, md: 3}} width="full" spacing={10}>
             <Field 
               id="type" 
-              options={typesList} 
+              options={types} 
               register={register} 
               name="type"
             />
             
             <Field 
-              placeholder="Breed" 
               name="breed" 
               isDisabled={loading_breeds} 
               register={register} 
-              options={breeds}
+              options={data ? getNames(data.breeds) : []}
+              defaultValue=""
             />
 
             <Field 
               options={['Male', 'Female']} 
               name="gender" 
               register={register} 
-              defaultValue="Male"
             />
           </SimpleGrid>
 
-          <Button type="submit" size="lg">
+          <Button type="submit" size="lg" colorScheme="blue">
             Search
           </Button>
         </VStack>

@@ -12,8 +12,10 @@ const Field = ({register, name, options, ...rest}) => {
       <FormLabel htmlFor={name}>{upper(name)}</FormLabel>
       <Select {...register(name)} {...rest} id={name}>
         {
-          options.map(opt => (
-            <option value={opt.toLowerCase()}>{opt}</option>
+          options.map((opt, index) => (
+            index === 0 ?
+            <option value={opt.toLowerCase()} selected>{opt}</option>
+            : <option value={opt.toLowerCase()}>{opt}</option>
           ))
         }
       </Select>

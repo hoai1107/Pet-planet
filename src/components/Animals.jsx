@@ -1,5 +1,5 @@
 import Icon from '@chakra-ui/icon';
-import { SimpleGrid, Flex, VStack, Heading, Box, HStack, Text } from '@chakra-ui/layout';
+import { SimpleGrid, Flex, VStack, Box, HStack, Text } from '@chakra-ui/layout';
 import { useState } from 'react';
 import { useAnimal } from '../hooks/useAnimal';
 import Card from './Card';

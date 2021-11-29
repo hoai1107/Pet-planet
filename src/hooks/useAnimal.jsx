@@ -5,7 +5,6 @@ import { useAccessToken } from '../context/AccessTokenContext';
 
 function useAnimal(p , url = "/"){
   const { token } = useAccessToken();
-
   const [ params, setParams ] = useState(p);
 
   const instance = axios.create({
@@ -15,7 +14,7 @@ function useAnimal(p , url = "/"){
     },
   });
 
-  const fetcher = (url, params) => instance.get(url, {params: params})
+  const fetcher = (path, params) => instance.get(path, {params: params})
   .then((response) => {
     return response.data;
   })
@@ -31,7 +30,6 @@ function useAnimal(p , url = "/"){
 
   return {
     data,
-    params,
     setParams,
     isLoading: !error && !data,
     isError: error

@@ -1,4 +1,4 @@
-import { Heading, Box, VStack, Text } from "@chakra-ui/layout";
+import { Box, VStack, Text } from "@chakra-ui/layout";
 import { Spinner } from "@chakra-ui/react";
 import { Table, TableCaption, Tbody, Tr, Td } from "@chakra-ui/table";
 import { useParams } from "react-router-dom";
