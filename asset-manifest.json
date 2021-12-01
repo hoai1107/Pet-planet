@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pet-planet/static/css/main.b153b512.chunk.css",
-    "main.js": "/Pet-planet/static/js/main.4c1c5d11.chunk.js",
-    "main.js.map": "/Pet-planet/static/js/main.4c1c5d11.chunk.js.map",
+    "main.js": "/Pet-planet/static/js/main.5e19d7ab.chunk.js",
+    "main.js.map": "/Pet-planet/static/js/main.5e19d7ab.chunk.js.map",
     "runtime-main.js": "/Pet-planet/static/js/runtime-main.682303cb.js",
     "runtime-main.js.map": "/Pet-planet/static/js/runtime-main.682303cb.js.map",
     "static/js/2.a0d987aa.chunk.js": "/Pet-planet/static/js/2.a0d987aa.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.682303cb.js",
     "static/js/2.a0d987aa.chunk.js",
     "static/css/main.b153b512.chunk.css",
-    "static/js/main.4c1c5d11.chunk.js"
+    "static/js/main.5e19d7ab.chunk.js"
   ]
 }
