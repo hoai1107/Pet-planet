@@ -16,15 +16,15 @@ const App = () => {
     <div>
       <Navbar />
       <Routes>
-        <Route path="/about" element={<About />}/>
+        <Route path="/Pet-planet/about" element={<About />}/>
 
-        <Route path="/contact" element={<Contact />}/>
+        <Route path="/Pet-planet/contact" element={<Contact />}/>
 
-        <Route path="/pets/:id" element={<Details />}/>
+        <Route path="/Pet-planet/pets/:id" element={<Details />}/>
 
-        <Route path="/pets/" element={<Pets />}/>
+        <Route path="/Pet-planet/pets" element={<Pets />}/>
         
-        <Route path="/" element={<Main />}/>
+        <Route path="/Pet-planet/" element={<Main />}/>
       </Routes>
     </div>
   )

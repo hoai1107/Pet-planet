@@ -14,7 +14,6 @@ function AccessTokenProvider({children}){
       client_secret: "nolMbHHfoJ7Esp8h8IiXm3NIOisJmn6uzikrbVyK"
     })
     .then(response => {
-      console.log(response.data);
       const { access_token } = response.data;
       setToken(access_token); 
     })

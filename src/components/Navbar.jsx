@@ -23,17 +23,17 @@ const Navbar = () => {
     {
       id: 1,
       name: "FIND PETS",
-      path: "/pets"
+      path: "/Pet-planet/pets"
     },
     {
       id: 2,
       name: "ABOUT",
-      path : "/about"
+      path : "/Pet-planet/about"
     },
     {
       id: 3,
       name: "CONTACT",
-      path: "/contact"
+      path: "/Pet-planet/contact"
     }
   ];
 
@@ -99,7 +99,7 @@ const Navbar = () => {
   return (
     <Flex width="100%" justify="center" py={4} sx={{"background-color":"#133B5C"}}>
       <Flex w="5xl" px={4}>
-        <Link to="/">
+        <Link to="/Pet-planet/">
           <HStack spacing={4}>
             <Icon as={Logo} width="50" height="50"/>
             <Text fontSize="2rem" color="white" sx={{"font-family": "'Pacifico', cursive;"}}>Pet Planet</Text>
