@@ -1,7 +1,7 @@
 {
   "name": "pet-adoption",
   "version": "0.1.0",
-  "homepage": "https://hoai1107.github.io/pet-planet/",
+  "homepage": "https://hoai1107.github.io/Pet-planet/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.0.0",
