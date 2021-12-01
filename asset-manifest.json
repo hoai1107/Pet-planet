@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pet-planet/static/css/main.b153b512.chunk.css",
+    "main.js": "/Pet-planet/static/js/main.b64f790a.chunk.js",
+    "main.js.map": "/Pet-planet/static/js/main.b64f790a.chunk.js.map",
+    "runtime-main.js": "/Pet-planet/static/js/runtime-main.682303cb.js",
+    "runtime-main.js.map": "/Pet-planet/static/js/runtime-main.682303cb.js.map",
+    "static/js/2.a0d987aa.chunk.js": "/Pet-planet/static/js/2.a0d987aa.chunk.js",
+    "static/js/2.a0d987aa.chunk.js.map": "/Pet-planet/static/js/2.a0d987aa.chunk.js.map",
+    "index.html": "/Pet-planet/index.html",
+    "static/css/main.b153b512.chunk.css.map": "/Pet-planet/static/css/main.b153b512.chunk.css.map",
+    "static/js/2.a0d987aa.chunk.js.LICENSE.txt": "/Pet-planet/static/js/2.a0d987aa.chunk.js.LICENSE.txt",
+    "static/media/no-photos.54fabf7f.png": "/Pet-planet/static/media/no-photos.54fabf7f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.682303cb.js",
+    "static/js/2.a0d987aa.chunk.js",
+    "static/css/main.b153b512.chunk.css",
+    "static/js/main.b64f790a.chunk.js"
+  ]
+}
