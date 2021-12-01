@@ -8,7 +8,7 @@ const MoreCard = () => {
   return (
   <Box>
     <Button colorScheme="teal" size="lg"
-      onClick={() => navigate("/pets")}
+      onClick={() => navigate("/Pet-planet/pets")}
     >
       Click here to find more pets!
     </Button>
